@@ -1,0 +1,14 @@
+{
+  "name": "benchmark-no-outdated",
+  "version": "1.0.0",
+  "description": "Baseline test project with up‑to‑date dependencies.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "express": "5.1.0",
+    "cors": "2.8.5"
+  }
+}
